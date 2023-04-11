@@ -1,0 +1,15 @@
+C:\Users\al198\source\repos\PracticalTask3\PracticalTask3\bin\Debug\net6.0\PracticalTask3.exe
+C:\Users\al198\source\repos\PracticalTask3\PracticalTask3\bin\Debug\net6.0\PracticalTask3.deps.json
+C:\Users\al198\source\repos\PracticalTask3\PracticalTask3\bin\Debug\net6.0\PracticalTask3.runtimeconfig.json
+C:\Users\al198\source\repos\PracticalTask3\PracticalTask3\bin\Debug\net6.0\PracticalTask3.dll
+C:\Users\al198\source\repos\PracticalTask3\PracticalTask3\bin\Debug\net6.0\PracticalTask3.pdb
+C:\Users\al198\source\repos\PracticalTask3\PracticalTask3\obj\Debug\net6.0\PracticalTask3.csproj.AssemblyReference.cache
+C:\Users\al198\source\repos\PracticalTask3\PracticalTask3\obj\Debug\net6.0\PracticalTask3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al198\source\repos\PracticalTask3\PracticalTask3\obj\Debug\net6.0\PracticalTask3.AssemblyInfoInputs.cache
+C:\Users\al198\source\repos\PracticalTask3\PracticalTask3\obj\Debug\net6.0\PracticalTask3.AssemblyInfo.cs
+C:\Users\al198\source\repos\PracticalTask3\PracticalTask3\obj\Debug\net6.0\PracticalTask3.csproj.CoreCompileInputs.cache
+C:\Users\al198\source\repos\PracticalTask3\PracticalTask3\obj\Debug\net6.0\PracticalTask3.dll
+C:\Users\al198\source\repos\PracticalTask3\PracticalTask3\obj\Debug\net6.0\refint\PracticalTask3.dll
+C:\Users\al198\source\repos\PracticalTask3\PracticalTask3\obj\Debug\net6.0\PracticalTask3.pdb
+C:\Users\al198\source\repos\PracticalTask3\PracticalTask3\obj\Debug\net6.0\PracticalTask3.genruntimeconfig.cache
+C:\Users\al198\source\repos\PracticalTask3\PracticalTask3\obj\Debug\net6.0\ref\PracticalTask3.dll
